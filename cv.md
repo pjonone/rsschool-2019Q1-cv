@@ -11,7 +11,8 @@ So, in August 2018 I decided to change my profession and become a Front-end deve
 I plan to get a position of a Junior front-end developer in 2019. In 2020 I suppose that I will be promoted to a Middle front-end developer. I understand that I should study a lot and I’m ready to achieve my goals regardless of any difficulties.
 ***
 ##Skills:  
-HTML, CSS, Javascript, Git, WebStorm, Adobe(Photoshop, InDesign, Illustrator) 
+HTML, CSS, Javascript, Git, WebStorm, Adobe(Photoshop, InDesign, Illustrator)  
+
 ##Projects:  
 **Freelance project (WP + Template):** 
 https://armonia.by/  
@@ -22,8 +23,10 @@ https://datastream.by
 http://93.125.42.235:81/7/  
 http://93.125.42.235:81/  
 http://93.125.42.235:81/10/  
+
 ##Study:  
 It-academy.by (Website development using HTML, CSS and JavaScript)  
-RSSchool 1st stage
+RSSchool 1st stage  
+
 ##English:  
-Pre-intermediate. I study with a tutor 3 times a week from August 2018. I started at Elementary level.
+Pre-intermediate. I study with a tutor 3 times a week from August 2018. I started at Elementary level.  
