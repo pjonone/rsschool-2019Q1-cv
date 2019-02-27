@@ -8,7 +8,7 @@
 ***
 ##About me:  
 _I have 9 years’ working experience in marketing, currently I’m an internet marketing specialist and I have been working in this sphere for 5 years. One of my responsibilities is resolving different issues in website markup and I really enjoy it. 
-So, in August 2018 I decided to change my profession and become a Front-end developer. I started learning English and in December 2018 I began “” courses in IT-Academy. In January I understood that it would be a great opportunity for me to access to RSSchool courses, so I started investigating basic JS. Currently self-development is rather challenging for me, but when someone guides me, it seems much easier. 
+So, in August 2018 I decided to change my profession and become a Front-end developer. I started learning English and in December 2018 I began “Website development using HTML, CSS and JavaScript” courses in IT-Academy. In January I understood that it would be a great opportunity for me to access to RSSchool courses, so I started investigating basic JS. Currently self-development is rather challenging for me, but when someone guides me, it seems much easier. 
 I plan to get a position of a Junior front-end developer in 2019. In 2020 I suppose that I will be promoted to a Middle front-end developer. I understand that I should study a lot and I’m ready to achieve my goals regardless of any difficulties._
 ***
 
